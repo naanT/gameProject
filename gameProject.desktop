@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=gameProject
+Exec=webapp-container --inspector ./www/index.html
+Icon=gameProject.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

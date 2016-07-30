@@ -1,0 +1,17 @@
+{
+    "name": "gameproject.naan",
+    "description": "description of gameProject",
+    "architecture": "all",
+    "title": "gameProject",
+    "hooks": {
+        "gameProject": {
+            "apparmor": "gameProject.apparmor",
+            "desktop":  "gameProject.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "abdulHannan  <raohannan1@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+
